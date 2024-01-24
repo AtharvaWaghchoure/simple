@@ -1,6 +1,6 @@
 # Simple CLI App
 
-Simple is a Rust-based cli for processing cryptocurrency trade data, and performs different operations based on user-defined modes. The application is designed to cache real-time data or read previously cached data from JSON files.
+Simple is a Rust-based cli tool for processing cryptocurrency trade data, and performs different operations based on user-defined modes. The application is designed to cache real-time data or read previously cached data from JSON files.
 
 ## Installation
 ```
