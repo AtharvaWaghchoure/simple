@@ -39,7 +39,7 @@ cargo run -- -m read
 ```
 ***
 ## TODO
-+ Signatures to each process and the aggregator checking them before aggregation.
-+ Adding more tokens for get data, currently only working for btc, won't much hard.
-+ Adding tests
++ [ ] Signatures to each process and the aggregator checking them before aggregation.
++ [ ] Adding more tokens for get data, currently only working for btc, won't much hard.
++ [ ] Adding tests
 
